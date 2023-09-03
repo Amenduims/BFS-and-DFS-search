@@ -1,4 +1,4 @@
-### Algortimos de buscas
+# Algortimos de buscas
 
 ## Busca em largura
 
